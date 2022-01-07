@@ -1,0 +1,170 @@
+body{
+    
+  
+    background-color:#dfe6e8;
+
+}
+.links {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 9px;
+    padding-top: 9px;
+} 
+#search_bar{
+
+    width: 50%;
+    margin-top: 20px;
+
+}
+
+#sb{
+
+    margin-left: 10px;
+    margin-top: 20px;
+    padding-top: 10px;
+    width: 20px;
+    border-style: none;
+}
+.span_tag{
+    display: inline;
+    width: 100%;
+    margin: 10px;
+
+}
+#logo{
+
+    width: 200px;
+}
+#mycarousel img{
+    border-style: groove;
+    border-color: black;
+    border-width: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 250px;
+}
+
+.productonhome_div{
+
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    width: 400px;
+    height: 550px;
+    margin-left: 20px;
+}
+.productonhome_div a:hover{
+
+
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.productonhome_div a{
+
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.gaming_products_gamingpage{
+
+    width:100%;
+    height: 300px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.gaming_products_gamingpage img{
+
+    width: 500px;
+    height: 300px;
+}
+#contact{
+
+    background-color: firebrick;
+
+}
+
+#contact iframe{
+
+    border-radius: 10px;
+}
+.ipadmodals{
+
+    width:100%;
+    height: 400px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.ipadmodals img{
+
+    width: 500px;
+    height: 350px;
+}
+
+.mousemodals{
+
+    width:100%;
+    height: 500px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.mousemodals img{
+
+    width: 500px;
+    height: 400px;
+}
+
+.laptopmodals{
+
+    width:100%;
+    height: 500px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.laptopmodals img{
+
+    width: 500px;
+    height: 400px;
+}
+
+.headphonesmodals{
+
+    width:100%;
+    height: 500px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.headphonesmodals img{
+
+    width: 500px;
+    height: 400px;
+}
+
+.earbudsmodals{
+
+    width:100%;
+    height: 500px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.earbudsmodals img{
+
+    width: 500px;
+    height: 400px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
